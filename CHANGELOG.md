@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`4aec525`](https://github.com/stdlib-js/stdlib/commit/4aec52554b4f7ee67fbbc32cc3f8f937cd5987d2) - add C implementation for `stats/base/dists/cosine/logpdf` [(#4502)](https://github.com/stdlib-js/stdlib/pull/4502)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3517](https://github.com/stdlib-js/stdlib/issues/3517)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`4aec525`](https://github.com/stdlib-js/stdlib/commit/4aec52554b4f7ee67fbbc32cc3f8f937cd5987d2) - **feat:** add C implementation for `stats/base/dists/cosine/logpdf` [(#4502)](https://github.com/stdlib-js/stdlib/pull/4502) _(by Prashant Kumar Yadav)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
