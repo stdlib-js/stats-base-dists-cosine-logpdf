@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`33a4af8`](https://github.com/stdlib-js/stdlib/commit/33a4af8ea02d79120618cb4d50edb87d8aeab6a0) - **chore:** remove extra spaces _(by Philipp Burckhardt)_
 -   [`895313e`](https://github.com/stdlib-js/stdlib/commit/895313e08f1006053fd6d995494bdf546002694e) - **docs:** update descriptions _(by Athan Reines)_
 -   [`4aec525`](https://github.com/stdlib-js/stdlib/commit/4aec52554b4f7ee67fbbc32cc3f8f937cd5987d2) - **feat:** add C implementation for `stats/base/dists/cosine/logpdf` [(#4502)](https://github.com/stdlib-js/stdlib/pull/4502) _(by Prashant Kumar Yadav)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
